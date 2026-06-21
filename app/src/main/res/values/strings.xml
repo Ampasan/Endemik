@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NusaLestari</string>
+    <string name="hewan">Hewan</string>
+    <string name="tumbuhan">Tumbuhan</string>
+    <string name="cari">Cari</string>
+    <string name="favorit">Favorit</string>
+    <string name="klasifikasi">Klasifikasi</string>
+    <string name="asal_sebaran">Asal &amp; Sebaran</string>
+    <string name="status">Status</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tonton_video">Tonton Video</string>
+    <string name="search_hint">Cari hewan dan tumbuhan...</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="removed_from_favorite">Dihapus dari favorit</string>
+    <string name="added_to_favorite">Ditambahkan ke favorit</string>
+    <string name="failed_to_fetch">Gagal mengambil data</string>
+    <string name="nim">NIM: 2410501042</string>
+    <string name="kelas">Kelas: B</string>
+    <string name="tutup">Tutup</string>
+    <string name="nama_user">Naufal Rakan Ramadhan</string>
+    <string name="data_tersimpan">Data tersimpan</string>
+</resources>
